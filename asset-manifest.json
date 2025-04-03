@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Wedding-Gift-Calculator/static/css/main.6f88ba94.css",
+    "main.js": "/Wedding-Gift-Calculator/static/js/main.523add63.js",
+    "static/media/certificate-bg.jpg": "/Wedding-Gift-Calculator/static/media/certificate-bg.800db03cd772d4f4e58b.jpg",
+    "static/media/signature.png": "/Wedding-Gift-Calculator/static/media/signature.3eed1b37c5fea5d61fe8.png",
+    "index.html": "/Wedding-Gift-Calculator/index.html",
+    "main.6f88ba94.css.map": "/Wedding-Gift-Calculator/static/css/main.6f88ba94.css.map",
+    "main.523add63.js.map": "/Wedding-Gift-Calculator/static/js/main.523add63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f88ba94.css",
+    "static/js/main.523add63.js"
+  ]
+}
